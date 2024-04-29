@@ -1,5 +1,6 @@
 package com.lrincon.apptrendlink
 
+CONTROLADOR
 
 class Menu(categoria: String, plato: String, descripcion: String, precio: Double) {
     var categoria: String = categoria
