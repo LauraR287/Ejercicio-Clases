@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "435431693386",
+    "project_id": "ejemploclase-242b1",
+    "storage_bucket": "ejemploclase-242b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435431693386:android:1c126610cae4e495395ab3",
+        "android_client_info": {
+          "package_name": "com.lrincon.ejercicioclases"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8jlKoUeLvHIyaraEscqsVtaqOuxv7MfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
